@@ -1,32 +1,27 @@
 [
   {
     "title": "WebDAV Server",
-    "description": "A comprehensive guide to setting up a WebDAV server.",
-    "link": "https://raw.githubusercontent.com/your-username/blogs/main/webdav-server.md"
+    "description": "A comprehensive guide to setting up a WebDAV server using Docker.",
+    "link": "https://raw.githubusercontent.com/hereliesadvaith/Blog/refs/heads/main/webdav-server.md"
   },
   {
     "title": "Deploying with Docker",
     "description": "Step-by-step instructions for containerizing and deploying your app using Docker.",
-    "link": "https://raw.githubusercontent.com/your-username/blogs/main/deploying-with-docker.md"
+    "link": "https://raw.githubusercontent.com/hereliesadvaith/Blog/refs/heads/main/deploying-with-docker.md"
   },
   {
     "title": "Understanding OAuth2",
-    "description": "An introduction to OAuth2 authentication and how to implement it in web applications.",
-    "link": "https://raw.githubusercontent.com/your-username/blogs/main/understanding-oauth2.md"
+    "description": "An introduction to OAuth2 authentication in web applications and backend.",
+    "link": "https://raw.githubusercontent.com/hereliesadvaith/Blog/refs/heads/main/understanding-oauth2.md"
   },
   {
-    "title": "Building a REST API with FastAPI",
+    "title": "REST API with FastAPI",
     "description": "Learn how to quickly build a modern REST API using FastAPI in Python.",
-    "link": "https://raw.githubusercontent.com/your-username/blogs/main/rest-api-with-fastapi.md"
+    "link": "https://raw.githubusercontent.com/hereliesadvaith/Blog/refs/heads/main/rest-api-with-fastapi.md"
   },
   {
     "title": "GitHub Actions for CI/CD",
-    "description": "Automate your build and deployment pipelines using GitHub Actions.",
-    "link": "https://raw.githubusercontent.com/your-username/blogs/main/github-actions-cicd.md"
-  },
-  {
-    "title": "Markdown Tips for Technical Writing",
-    "description": "Best practices for writing clean and effective technical blogs in Markdown.",
-    "link": "https://raw.githubusercontent.com/your-username/blogs/main/markdown-tips.md"
+    "description": "Automate your build and deployment pipelines using GitHub Actions explained.",
+    "link": "https://raw.githubusercontent.com/hereliesadvaith/Blog/refs/heads/main/github-actions-cicd.md"
   }
 ]

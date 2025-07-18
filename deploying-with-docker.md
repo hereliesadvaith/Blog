@@ -14,4 +14,17 @@ What makes Docker truly powerful is its ability to integrate with any platform. 
 docker pull debian
 ```
 
+```javascript
+const greet = (name) => {
+  return `Hello, ${name}`;
+};
+console.log(greet("Advaith"));
+```
+
+```python
+def greet(name):
+  return f'Hello {name}'
+greet('Advaith')
+```
+
 
